@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">YeelightCatalogApp</string>
+    <string name="Our_products">Our products</string>
+    <string name="Contact_us">Contact us</string>
+    <string name="Schedule_meeting">Schedule a meeting</string>
+    <string name="Enter_complain">Enter a complain</string>
+    <string name="hello">hello</string>
+    <string name="Opening_Hours">Opening Hours:</string>
+    <string name="Opening1">Sunday to Thursday 9:00 - 16:30</string>
+    <string name="Opening2">Fridays and holiday eves :  closed</string>
+    <string name="save_phone">save our phone number</string>
+    <string name="Go_us">Go to us</string>
+    <string name="Call_us">Call us</string>
+    <string name="Choose_date">Choose a date</string>
+    <string name="Select_Time">Select Time</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="time_format">00:00</string>
+    <string name="calendar">Add to calendar</string>
+    <string name="product1">Smart Celling Lamp</string>
+    <string name="product2">Smart Bulb</string>
+    <string name="product3">Smart Table Lamp</string>
+    <string name="product4">Smart LED Strip</string>
+    <string name="product5">Smart Dimmer</string>
+    <string name="Subject">Subject</string>
+    <string name="Insert_text">Insert text</string>
+    <string name="Add_photo">Add  photo from  gallery</string>
+    <string name="Take_picture">Take picture</string>
+    <string name="Send">Send</string>
+    <string name="Enter_name">Enter your name</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="send_email">send email with...</string>
+    <string name="contact_toast">sorry, can not work without permission press long on call us button to go to settings</string>
+    <string name="complain_toast">sorry, can not work without permission press long on Take picture button to go to settings</string>
+    <string name="Meeting">Meeting at YEELIGHT</string>
+    <string name="address">Haofe 8 Einav Center, Modiin Maccabim Reut</string>
+</resources>

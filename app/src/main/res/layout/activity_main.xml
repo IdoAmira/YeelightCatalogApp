@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/Enter_name"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:inputType="text"
+        android:id="@+id/name_main_et"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnshape"
+        android:text="@string/Sign_in"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/name_main_et"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:textAllCaps="false"
+        android:id="@+id/sign_in_btn"/>
+</RelativeLayout>
